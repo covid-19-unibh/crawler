@@ -1,1 +1,1 @@
-![Overview architecture representation](https://res.cloudinary.com/stanleysathler/image/upload/v1590338520/nothing/cron-arch.png)
+![Overview architecture representation](https://res.cloudinary.com/stanleysathler/image/upload/v1590338758/nothing/cron-arch.png)
