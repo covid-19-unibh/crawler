@@ -1,1 +1,5 @@
-![Overview architecture representation](https://res.cloudinary.com/stanleysathler/image/upload/v1590338758/nothing/cron-arch.png)
+## Overall architecture
+
+<p align="center">
+  <img width="800" src="https://res.cloudinary.com/stanleysathler/image/upload/v1590345728/nothing/cron-arch.svg">
+</p>
