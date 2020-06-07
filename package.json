@@ -1,0 +1,10 @@
+{
+  "name": "cron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:covid-19-unibh/cron.git",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
